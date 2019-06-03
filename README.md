@@ -1,7 +1,3 @@
-# Pandas Data Dive
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete the following Data Challenges. 
-
 ## Academy of Py
 
 ![Education](Images/education.jpg)
